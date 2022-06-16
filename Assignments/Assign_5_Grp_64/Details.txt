@@ -1,0 +1,19 @@
+Question - 1:
+	MUX.v
+	DFF.v
+	LFSR.v
+	LFSR_TB.v
+
+Question - 2:
+	Two's_comp.v
+	twos_comp_test.v
+
+Question - 3:
+	Multiple_of_3.v
+	Mul_3_test.v
+
+Question - 4:
+	Shift_reg.v
+	Seq_Unsign_comparator.v
+	Comparator.v
+	Comparater_test.v
